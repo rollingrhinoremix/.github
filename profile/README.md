@@ -1,6 +1,6 @@
 # Rolling Rhino Remix
 
-![Rolling Rhino Remix logo](https://rollingrhinoremix.github.io/assets/images/favicon.png)
+<img src="https://rollingrhinoremix.github.io/assets/images/favicon.png" width="200px" height="200px"/>
 
 **Website:** https://rollingrhinoremix.github.io
 
