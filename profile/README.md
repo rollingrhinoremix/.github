@@ -11,6 +11,7 @@ Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu o
 - [rhino-update](https://github.com/rollingrhinoremix/rhino-update)
 - [rhino-config](https://github.com/rollingrhinoremix/rhino-config)
 - [distro](https://github.com/rollingrhinoremix/distro)
+- [creation_script](https://github.com/rollingrhinoremix/creation_script)
 - [rollingrhinoremix.github.io](https://github.com/rollingrhinoremix/rollingrhinoremix.github.io)
 
 ## Documentation
