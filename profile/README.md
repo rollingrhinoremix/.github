@@ -24,7 +24,7 @@ We have a fully documented process on how to create your own disk image of Rolli
 
 ## Contact
 
-You are able to find the contact information for us on our website here: https://rollingrhinoremix.github.io
+You are able to find the contact information for us on our website here: https://rollingrhinoremix.github.io#contact
 
 ## Made with love <3
 
