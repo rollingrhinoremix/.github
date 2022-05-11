@@ -20,15 +20,15 @@ https://rollingrhino.org/docs
 
 ## Create your own disk image of Rolling Rhino Remix
 
-We have a fully documented process on how to create your own disk image of Rolling Rhino Remix [here](https://rollingrhino.org/docs-create).
+We have a fully documented process on how to create your own disk image of Rolling Rhino Remix [here](https://github.com/rollingrhinoremix/creation_script).
 
 ## Contact
 
-You are able to find the contact information for us on our website here: https://rollingrhino.org#contact
+You are able to find the contact information for us on our website here: https://rollingrhino.org/contact
 
 ## Made with love <3
 
-Rolling Rhino Remix was made with love by all of our [developers & contributors](https://rollingrhino.org/contributors.txt), and a large thank you to Martin Wimpress who's Rolling Rhino script has inspired the development of this distribution. We would also like to thank Martin for his permission to use the name "Rolling Rhino Remix".
+Rolling Rhino Remix was made with love by all of our [developers & contributors](https://rollingrhino.org/contributors), and a large thank you to Martin Wimpress who's Rolling Rhino script has inspired the development of this distribution. We would also like to thank Martin for his permission to use the name "Rolling Rhino Remix".
 
 - Ubuntu and Canonical are registered trademarks of Canonical Ltd. Rolling Rhino Remix is not affiliated with the Ubuntu Project.
 - Linux is the registered trademark of Linus Torvalds.
