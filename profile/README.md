@@ -1,6 +1,8 @@
-# Rolling Rhino Remix
+<p align="center"><b>Rolling Rhino Remix</b></p>
 
-<img src="https://rollingrhino.org/assets/logos/rolling_rhino_circle-dark.png" width="230px" height="230px"/>
+<p align="center">
+<a href="https://github.com/rollingrhinoremix"><img align="center" src="https://rollingrhino.org/assets/logos/rolling_rhino_circle-dark.png" width="230" height="230" alt="Rolling Rhino Logo"></a>
+</p>
 
 **Website:** https://rollingrhino.org
 
