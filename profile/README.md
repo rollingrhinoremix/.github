@@ -24,7 +24,7 @@ Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu o
 
 ## Documentation
 
-https://docs.rollingrhino.org
+https://rollingrhino.org/docs
 
 ## Contact
 
