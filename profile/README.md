@@ -14,13 +14,7 @@ Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu o
 - [rhino-deinst](https://github.com/rollingrhinoremix/rhino-deinst) -  rhino-deinst is a command-line utility script which provides a Terminal User Interface to install desktop environments on Rolling Rhino Remix + Ubuntu-based systems. 
 - [assets](https://github.com/rollingrhinoremix/assets) -  This repository is a collection of assets and scripts used in the creation of Rolling Rhino Remix.
 - [rollingrhinoremix.github.io](https://github.com/rollingrhinoremix/rollingrhinoremix.github.io) -  This is the official repository for the Rolling Rhino Remix. Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu operating system into a rolling release Linux distribution by tracking the devel series. 
-- [docs](https://github.com/rollingrhinoremix/docs) - A GitHub repository for the documentation of Rolling Rhino Remix, all documentation can be found on our Wiki tab. 
-
-- [rhino-update](https://github.com/rollingrhinoremix/rhino-update)
-- [rhino-config](https://github.com/rollingrhinoremix/rhino-config)
-- [distro](https://github.com/rollingrhinoremix/distro)
-- [creation_script](https://github.com/rollingrhinoremix/creation_script)
-- [rollingrhinoremix.github.io](https://github.com/rollingrhinoremix/rollingrhinoremix.github.io)
+- [docs](https://github.com/rollingrhinoremix/docs) - A GitHub repository for the documentation of Rolling Rhino Remix, all documentation can be found on our Wiki tab.
 
 ## Documentation
 
