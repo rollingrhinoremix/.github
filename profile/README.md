@@ -8,6 +8,14 @@ Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu o
 
 ## Repositories
 
+- [RRR-builder](https://github.com/rollingrhinoremix/rrr-builder) -  RRR-builder is used for the creation of Rolling Rhino Remix disk images. Automated through GitHub actions. 
+- [rhino-update](https://github.com/rollingrhinoremix/rhino-update) -  Rhino Update is a command-line utility script which will provide updates to items that do not hit the Ubuntu devel repositories, such as the latest Linux Kernel. 
+- [rhino-config](https://github.com/rollingrhinoremix/rhino-config) -  Rhino Config is a command-line utility that allows you to configure Rhino, our utility tool that allows you to upgrade the distribution. You will be able to configure Rhino to download and install the latest Linux kernel, proprietary drivers and more! 
+- [rhino-deinst](https://github.com/rollingrhinoremix/rhino-deinst) -  rhino-deinst is a command-line utility script which provides a Terminal User Interface to install desktop environments on Rolling Rhino Remix + Ubuntu-based systems. 
+- [assets](https://github.com/rollingrhinoremix/assets) -  This repository is a collection of assets and scripts used in the creation of Rolling Rhino Remix.
+- [rollingrhinoremix.github.io](https://github.com/rollingrhinoremix/rollingrhinoremix.github.io) -  This is the official repository for the Rolling Rhino Remix. Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu operating system into a rolling release Linux distribution by tracking the devel series. 
+- [docs](https://github.com/rollingrhinoremix/docs) - A GitHub repository for the documentation of Rolling Rhino Remix, all documentation can be found on our Wiki tab. 
+
 - [rhino-update](https://github.com/rollingrhinoremix/rhino-update)
 - [rhino-config](https://github.com/rollingrhinoremix/rhino-config)
 - [distro](https://github.com/rollingrhinoremix/distro)
@@ -16,11 +24,7 @@ Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu o
 
 ## Documentation
 
-https://rollingrhino.org/docs
-
-## Create your own disk image of Rolling Rhino Remix
-
-We have a fully documented process on how to create your own disk image of Rolling Rhino Remix [here](https://github.com/rollingrhinoremix/creation_script).
+https://docs.rollingrhino.org
 
 ## Contact
 
