@@ -6,6 +6,12 @@
 
 Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu operating system into a rolling release Linux distribution by tracking the devel series. A rolling release distribution is a Linux distribution which recieves continuous package updates, and as such there is no major update (unlike Ubuntu's current release model where there is clear progression between versions). A rolling release model offers new and experienced users a new way to utilise their desktop PC, without the hassle of major upgrades.
 
+## Donate to the project
+
+You are able to donate to the project [here](https://liberapay.com/Rolling-Rhino-Remix/) via Liberapay.
+
+<img src="https://img.shields.io/liberapay/receives/Rolling-Rhino-Remix.svg?logo=liberapay">
+
 ## Repositories
 
 - [RRR-builder](https://github.com/rollingrhinoremix/rrr-builder) -  RRR-builder is used for the creation of Rolling Rhino Remix disk images. Automated through GitHub actions. 
