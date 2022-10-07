@@ -1,7 +1,5 @@
 # Rolling Rhino Remix
 
-<img src="https://rollingrhino.org/assets/logos/rolling_rhino_circle-dark.png" width="230px" height="230px"/>
-
 **Website:** https://rollingrhino.org
 
 Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu operating system into a rolling release Linux distribution by tracking the devel series. A rolling release distribution is a Linux distribution which recieves continuous package updates, and as such there is no major update (unlike Ubuntu's current release model where there is clear progression between versions). A rolling release model offers new and experienced users a new way to utilise their desktop PC, without the hassle of major upgrades.
