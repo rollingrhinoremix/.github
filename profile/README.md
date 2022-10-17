@@ -1,5 +1,7 @@
 # Rolling Rhino Remix
 
+* As of 17th October 2022 the Rolling Rhino Remix project has decided to discontinue Rolling Rhino Remix in favour of its successor distribution, Rhino Linux. Rhino Linux will polish out a lot of issues that are currently present within the distribution and introduce new features. You can find the Rhino Linux website, socials and more information [here](https://rhinolinux.org).
+
 **Website:** https://rollingrhino.org
 
 Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu operating system into a rolling release Linux distribution by tracking the devel series. A rolling release distribution is a Linux distribution which recieves continuous package updates, and as such there is no major update (unlike Ubuntu's current release model where there is clear progression between versions). A rolling release model offers new and experienced users a new way to utilise their desktop PC, without the hassle of major upgrades.
